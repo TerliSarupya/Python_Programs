@@ -1,1 +1,9 @@
 
+name="sarupya"
+rollno="40"
+college="aditya kkd"
+course="mpcs"
+print(name)
+print(rollno)
+print(college)
+print(course)
