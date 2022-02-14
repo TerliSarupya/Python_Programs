@@ -1,5 +1,5 @@
 
-n=int(input('enter number:'))#1234
+n=int(input('enter number:'))
 c=0
 while n>0:
     r=n%10 
