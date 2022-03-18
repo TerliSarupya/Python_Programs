@@ -1,1 +1,7 @@
-
+s=input()
+s1=""
+L=['A','E','I','O','U','a','e','i','o','u']
+for i in s:
+    if i not in L:
+        s1+=i
+print(s1)
